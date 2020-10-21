@@ -61,7 +61,7 @@ advanced:
   metrics: true
   update-check: true
   suppress-errors: false
-  message-prefix: "&6[&4DriveBackupV2&6] "
+  message-prefix: "&6[&2Wolf&fMC&6Survival]&f "
   default-message-color: "&3"
   date-language: "en"
   ftp-file-separator: "/"
