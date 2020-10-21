@@ -1,6 +1,6 @@
-# DriveBackupV2
+# This is a customized version of DriveBackupV2 by MaxMaeder, please use MaxMaeder's version. https://github.com/MaxMaeder/DriveBackupV2
+# I provide no support for this branch. It's for personal use, I just find using github as a storage medium to be conveient.
 
-**Need help? Talk to me on [Discord](https://discord.gg/VdCAUtm)!**
 
 ## What is this?
 Have you ever lost your Minecraft world before?
