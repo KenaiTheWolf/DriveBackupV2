@@ -161,16 +161,20 @@ public class MessageUtil {
     private static TextComponent prefixMessage(TextComponent message) {
         return TextComponent.builder()
                 .append(
-                    TextComponent.of("[")
-                    .color(TextColor.GOLD)
+                        TextComponent.of("[")
+                                .color(TextColor.GOLD)
                 )
                 .append(
-                    TextComponent.of("DriveBackupV2")
-                    .color(TextColor.DARK_RED)
+                        TextComponent.of("Wolf")
+                                .color(TextColor.DARK_GREEN)
                 )
                 .append(
-                    TextComponent.of("] "))
-                    .color(TextColor.GOLD)
+                        TextComponent.of("MC")
+                                .color(TextColor.WHITE)
+                )
+                .append(
+                        TextComponent.of("Survival] "))
+                .color(TextColor.GOLD)
                 .append(message)
                 .build();
     }
